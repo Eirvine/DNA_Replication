@@ -4506,3 +4506,10 @@ Reference List:
 [2025.03.22-11.42.22:795][267]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2025.03.22-11.42.25:874][267]LogExit: Editor shut down
 [2025.03.22-11.42.26:010][267]LogExit: Transaction tracking system shut down
+[2025.03.22-11.42.46:743][267]LogExit: Object subsystem successfully closed.
+[2025.03.22-11.42.47:027][267]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.22-11.42.57:431][267]MemoryProfiler: Shutdown
+[2025.03.22-11.42.57:438][267]NetworkingProfiler: Shutdown
+[2025.03.22-11.42.57:438][267]LoadingProfiler: Shutdown
+[2025.03.22-11.42.57:439][267]TimingProfiler: Shutdown
+[2025.03.22-11.42.59:002][267]LogOpenImageDenoise: OIDN shutting down
