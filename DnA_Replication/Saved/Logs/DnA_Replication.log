@@ -5813,3 +5813,449 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2025.03.25-14.10.32:440][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6637.444336
 [2025.03.25-14.10.33:442][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.25-14.10.33:442][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6638.110352, Update Interval: 305.480499
+[2025.03.25-14.16.21:203][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6986.218262
+[2025.03.25-14.16.22:203][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-14.16.22:203][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6986.884766, Update Interval: 353.761414
+[2025.03.25-14.19.32:658][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.25-14.19.32:659][152]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_5_Primase_adding_primer/Level_5_primase' took 0.007
+[2025.03.25-14.19.32:660][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Normal] ([1] browsable assets)...
+[2025.03.25-14.19.32:660][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Normal]
+[2025.03.25-14.19.32:677][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Normal_Auto9
+[2025.03.25-14.19.32:677][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Pimase_low_standardSurface1_NormB66C4AD04EC39A84F013B7B115526B8F.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Normal_Auto9.uasset'
+[2025.03.25-14.19.32:678][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim] ([1] browsable assets)...
+[2025.03.25-14.19.32:678][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim]
+[2025.03.25-14.19.32:691][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Auto9
+[2025.03.25-14.19.32:691][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/primer_animPrimer_anim_Auto9935E43FE4E0E038073BC7992EF682568.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Auto9.uasset'
+[2025.03.25-14.19.32:692][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Animation/Purple_mat] ([1] browsable assets)...
+[2025.03.25-14.19.32:692][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Animation/Purple_mat]
+[2025.03.25-14.19.32:695][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Animation/Purple_mat_Auto9
+[2025.03.25-14.19.32:695][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Purple_mat_Auto90BB0BC8F434DE1AEE7EADEA5D1FC2985.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Animation/Purple_mat_Auto9.uasset'
+[2025.03.25-14.19.32:696][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Skeleton] ([1] browsable assets)...
+[2025.03.25-14.19.32:696][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Skeleton]
+[2025.03.25-14.19.32:697][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Skeleton_Auto9
+[2025.03.25-14.19.32:697][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/primer_animPrimer_anim_Skeleton_D55ADDA344FE66782F460B95B602066B.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Skeleton_Auto9.uasset'
+[2025.03.25-14.19.32:698][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_PhysicsAsset] ([1] browsable assets)...
+[2025.03.25-14.19.32:698][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_PhysicsAsset]
+[2025.03.25-14.19.32:702][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_PhysicsAsset_Auto9
+[2025.03.25-14.19.32:702][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/primer_animPrimer_anim_PhysicsAs40909CD54F981DD8BCF22181F32EE1FC.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_PhysicsAsset_Auto9.uasset'
+[2025.03.25-14.19.32:703][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Anim] ([1] browsable assets)...
+[2025.03.25-14.19.32:703][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Anim]
+[2025.03.25-14.19.32:708][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Anim_Auto9
+[2025.03.25-14.19.32:708][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/primer_animPrimer_anim_Anim_Auto1265E4B94C272F6BF6A62D87167E2D48.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Anim_Auto9.uasset'
+[2025.03.25-14.19.32:709][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/Leading_strand] ([1] browsable assets)...
+[2025.03.25-14.19.32:709][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/Leading_strand]
+[2025.03.25-14.19.32:729][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Leading_strand_Auto9
+[2025.03.25-14.19.32:729][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Leading_strand_Auto9BFD2C0284D683F1580FAC9A755EA1C70.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Leading_strand_Auto9.uasset'
+[2025.03.25-14.19.32:730][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Level_5_sequence] ([1] browsable assets)...
+[2025.03.25-14.19.32:730][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Level_5_sequence]
+[2025.03.25-14.19.32:739][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Level_5_sequence_Auto9
+[2025.03.25-14.19.32:739][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Level_5_sequence_Auto9FD42718B4540EECACD2B228105306A86.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Level_5_sequence_Auto9.uasset'
+[2025.03.25-14.19.32:740][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Particles] ([1] browsable assets)...
+[2025.03.25-14.19.32:741][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Particles]
+[2025.03.25-14.19.32:815][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Particles_Auto9
+[2025.03.25-14.19.32:815][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Particles_Auto9ED47B916421750C61F35818345BF5564.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Particles_Auto9.uasset'
+[2025.03.25-14.19.32:816][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.03.25-14.19.32:816][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_OcclusionRoughnessMetallic]
+[2025.03.25-14.19.32:851][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_OcclusionRoughnessMetallic_Auto9
+[2025.03.25-14.19.32:851][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Pimase_low_standardSurface1_OcclE8D9E72A4F1A6FD935CF05A591584703.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_OcclusionRoughnessMetallic_Auto9.uasset'
+[2025.03.25-14.19.32:852][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_BaseColor] ([1] browsable assets)...
+[2025.03.25-14.19.32:852][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_BaseColor]
+[2025.03.25-14.19.32:869][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_BaseColor_Auto9
+[2025.03.25-14.19.32:869][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Pimase_low_standardSurface1_Base680A10AE43D1AC0746E7D3A900E88565.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_BaseColor_Auto9.uasset'
+[2025.03.25-14.19.32:870][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Emissive] ([1] browsable assets)...
+[2025.03.25-14.19.32:870][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Emissive]
+[2025.03.25-14.19.32:876][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Emissive_Auto9
+[2025.03.25-14.19.32:876][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Pimase_low_standardSurface1_Emis5F300288437275721DA413AC17EDB150.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Emissive_Auto9.uasset'
+[2025.03.25-14.19.32:877][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor] ([1] browsable assets)...
+[2025.03.25-14.19.32:877][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor]
+[2025.03.25-14.19.32:896][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor_Auto9
+[2025.03.25-14.19.32:896][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseCol297D9000405399C1FDFA05819D7B4C58.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor_Auto9.uasset'
+[2025.03.25-14.19.32:897][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Emissive] ([1] browsable assets)...
+[2025.03.25-14.19.32:897][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Emissive]
+[2025.03.25-14.19.32:915][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Emissive_Auto9
+[2025.03.25-14.19.32:915][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_EmissivF58958944E8D7441B8F8D8A43D73C85D.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Emissive_Auto9.uasset'
+[2025.03.25-14.19.32:916][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Normal] ([1] browsable assets)...
+[2025.03.25-14.19.32:916][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Normal]
+[2025.03.25-14.19.32:932][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Normal_Auto9
+[2025.03.25-14.19.32:933][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Normal_13452D7F4FE144BD8E0197BEE1D984EA.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Normal_Auto9.uasset'
+[2025.03.25-14.19.32:934][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.03.25-14.19.32:934][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic]
+[2025.03.25-14.19.32:951][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic_Auto9
+[2025.03.25-14.19.32:951][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_OcclusiE6A7A24348FD5EE923C002B3EB185E0C.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic_Auto9.uasset'
+[2025.03.25-14.19.32:952][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_BaseColor] ([1] browsable assets)...
+[2025.03.25-14.19.32:952][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_BaseColor]
+[2025.03.25-14.19.32:969][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_BaseColor_Auto9
+[2025.03.25-14.19.32:969][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseCol778F138040BD40530E37748594DF7EC8.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_BaseColor_Auto9.uasset'
+[2025.03.25-14.19.32:970][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Emissive] ([1] browsable assets)...
+[2025.03.25-14.19.32:970][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Emissive]
+[2025.03.25-14.19.32:999][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Emissive_Auto9
+[2025.03.25-14.19.32:999][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Emissiv375E88F644993DBE3CC3F988088ABF63.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Emissive_Auto9.uasset'
+[2025.03.25-14.19.33:000][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Normal] ([1] browsable assets)...
+[2025.03.25-14.19.33:000][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Normal]
+[2025.03.25-14.19.33:017][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Normal_Auto9
+[2025.03.25-14.19.33:017][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Normal_59A793C44ED50B9C12CE4C90146853EE.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Normal_Auto9.uasset'
+[2025.03.25-14.19.33:018][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.03.25-14.19.33:018][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic]
+[2025.03.25-14.19.33:037][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic_Auto9
+[2025.03.25-14.19.33:037][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_OcclusiF46312C24A20716F547F0E8608CB36BE.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic_Auto9.uasset'
+[2025.03.25-14.19.33:038][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_BaseColor] ([1] browsable assets)...
+[2025.03.25-14.19.33:038][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_BaseColor]
+[2025.03.25-14.19.33:059][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_BaseColor_Auto9
+[2025.03.25-14.19.33:059][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseCol7D5E632F49755378C23E9F989426DFA5.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_BaseColor_Auto9.uasset'
+[2025.03.25-14.19.33:060][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Emissive] ([1] browsable assets)...
+[2025.03.25-14.19.33:060][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Emissive]
+[2025.03.25-14.19.33:080][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Emissive_Auto9
+[2025.03.25-14.19.33:080][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Emissiv8302B3364AF2BF75145A6CADF7586D94.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Emissive_Auto9.uasset'
+[2025.03.25-14.19.33:082][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Normal] ([1] browsable assets)...
+[2025.03.25-14.19.33:082][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Normal]
+[2025.03.25-14.19.33:101][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Normal_Auto9
+[2025.03.25-14.19.33:101][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Normal_E6E0593C49A0F80170AF64AE9D321848.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Normal_Auto9.uasset'
+[2025.03.25-14.19.33:102][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.03.25-14.19.33:102][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic]
+[2025.03.25-14.19.33:122][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic_Auto9
+[2025.03.25-14.19.33:122][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Occlusi1CE5603D46DBA32283E261AEC81F6D07.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic_Auto9.uasset'
+[2025.03.25-14.19.33:123][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_BaseColor] ([1] browsable assets)...
+[2025.03.25-14.19.33:123][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_BaseColor]
+[2025.03.25-14.19.33:143][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_BaseColor_Auto9
+[2025.03.25-14.19.33:143][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseCol0FF4E046434B7DD79305908ABC5D2075.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_BaseColor_Auto9.uasset'
+[2025.03.25-14.19.33:144][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Emissive] ([1] browsable assets)...
+[2025.03.25-14.19.33:145][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Emissive]
+[2025.03.25-14.19.33:165][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Emissive_Auto9
+[2025.03.25-14.19.33:165][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_EmissivFE29F8C440FDC14BF25FCDAA98A3BE65.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Emissive_Auto9.uasset'
+[2025.03.25-14.19.33:166][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Normal] ([1] browsable assets)...
+[2025.03.25-14.19.33:166][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Normal]
+[2025.03.25-14.19.33:186][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Normal_Auto9
+[2025.03.25-14.19.33:186][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Normal_19433E114D2663C53DA3339D316377BA.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Normal_Auto9.uasset'
+[2025.03.25-14.19.33:188][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.03.25-14.19.33:188][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic]
+[2025.03.25-14.19.33:208][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic_Auto9
+[2025.03.25-14.19.33:208][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Occlusi3AF1B15947DB026F70A990885309A00B.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic_Auto9.uasset'
+[2025.03.25-14.19.33:209][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor_Mat] ([1] browsable assets)...
+[2025.03.25-14.19.33:210][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor_Mat]
+[2025.03.25-14.19.33:211][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor_Mat_Auto9
+[2025.03.25-14.19.33:211][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseColFD30111B454CD21779D3AA8CDEEB28FD.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor_Mat_Auto9.uasset'
+[2025.03.25-14.19.33:212][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level_5_Primase_adding_primer/Leading_strand/BLue_instance] ([1] browsable assets)...
+[2025.03.25-14.19.33:293][152]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Level_5_Primase_adding_primer/Leading_strand/BLue_instance.BLue_instance]
+[2025.03.25-14.19.33:293][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_5_Primase_adding_primer/Leading_strand/BLue_instance]
+[2025.03.25-14.19.33:296][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/BLue_instance_Auto9
+[2025.03.25-14.19.33:296][152]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/BLue_instance_Auto97C43E6634F6F33774E07359A48297631.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Autosaves/Game/Level_5_Primase_adding_primer/Leading_strand/BLue_instance_Auto9.uasset'
+[2025.03.25-14.19.33:297][152]LogFileHelpers: Auto-saving content packages took 0.637
+[2025.03.25-14.21.41:204][537]LogDerivedDataCache: C:/Users/jacek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.906 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5919 files in 7647 folders with total size 483 MiB.
+[2025.03.25-14.22.46:021][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7371.043945
+[2025.03.25-14.22.47:022][735]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-14.22.47:022][735]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7371.711426, Update Interval: 307.522217
+[2025.03.25-14.28.27:090][755]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7712.117676
+[2025.03.25-14.28.28:090][758]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-14.28.28:090][758]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7712.783203, Update Interval: 350.714447
+[2025.03.25-14.34.50:833][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8095.870117
+[2025.03.25-14.34.51:833][909]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-14.34.51:833][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8096.536133, Update Interval: 309.062164
+[2025.03.25-14.40.55:240][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8460.230469
+[2025.03.25-14.40.56:240][  2]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-14.40.56:240][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8460.897461, Update Interval: 340.762360
+[2025.03.25-14.42.35:022][605]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.03.25-14.42.36:648][762]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.25-14.42.36:787][762]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.25-14.42.36:799][763]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.25-14.42.43:740][109]LogContentBrowser: Attempting asset rename: NewFolder -> thing_envi
+[2025.03.25-14.42.43:740][109]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.25-14.43.00:119][868]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\GCU year 4\Medical modeling group project\Unreal exports\thing.fbx)
+[2025.03.25-14.43.00:128][868]LogFbx: Loading FBX Scene from D:\GCU year 4\Medical modeling group project\Unreal exports\thing.fbx
+[2025.03.25-14.43.00:134][868]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.25-14.43.02:640][868]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.25-14.43.02:721][868]LogFbx: Display: Triangulating static mesh pCylinder1
+[2025.03.25-14.43.02:739][868]LogStaticMesh: Display: Building static mesh thing...
+[2025.03.25-14.43.02:746][868]LogStaticMesh: Built static mesh [0.01s] /Game/Level_5_Primase_adding_primer/thing_envi/thing.thing
+[2025.03.25-14.43.02:763][868]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: ================================================
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Total job queries 3,531, among them cache hits 2,801 (79.33%)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Tracking 730 distinct input hashes that result in 320 distinct outputs (43.84%)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: RAM used: 17.30 MiB of 1.20 GiB budget. Usage: 1.41%
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Shaders Compiled: 622
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Jobs assigned 622, completed 622 (100%)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Average time worker was idle: 48.71 s
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Time job spent in pending queue: average 0.23 s, longest 1.87 s
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 1.47 s
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 2.38
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Shader code size: average 40.928 KiB, min 4.359 KiB, max 63.195 KiB
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 75.13 s
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Jobs were issued in 622 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Average processing rate: 8.28 jobs/sec
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Total thread time: 207.47 s
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Total thread preprocess time: 22.148 s
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Percentage time preprocessing: 10.68%
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Effective parallelization: 2.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.50% of total time (compiled   71 times, average 0.37 sec, max 0.48 sec, min 0.24 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.70% of total time (compiled   71 times, average 0.34 sec, max 0.43 sec, min 0.28 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.39% of total time (compiled   51 times, average 0.34 sec, max 0.45 sec, min 0.28 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.95% of total time (compiled   29 times, average 0.43 sec, max 0.58 sec, min 0.38 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.73% of total time (compiled   29 times, average 0.41 sec, max 0.58 sec, min 0.35 sec)
+[2025.03.25-14.43.02:942][871]LogShaderCompilers: Display: ================================================
+[2025.03.25-14.43.07:246][ 67]LogSlate: Window 'Message Log' being destroyed
+[2025.03.25-14.43.07:254][ 67]LogSlate: Window 'Message Log' being destroyed
+[2025.03.25-14.43.09:571][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level_5_Primase_adding_primer/thing_envi/thing.thing
+[2025.03.25-14.43.09:571][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level_5_Primase_adding_primer/thing_envi/thing.thing
+[2025.03.25-14.43.09:571][184]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level_5_Primase_adding_primer/thing_envi/thing.thing as actor: StaticMeshActor /Game/Level_5_Primase_adding_primer/Level_5_primase.Level_5_primase:PersistentLevel.StaticMeshActor_0
+[2025.03.25-14.43.10:068][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level_5_Primase_adding_primer/thing_envi/thing.thing
+[2025.03.25-14.43.10:068][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level_5_Primase_adding_primer/thing_envi/thing.thing
+[2025.03.25-14.43.10:069][222]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level_5_Primase_adding_primer/thing_envi/thing.thing as actor: StaticMeshActor /Game/Level_5_Primase_adding_primer/Level_5_primase.Level_5_primase:PersistentLevel.StaticMeshActor_3
+[2025.03.25-14.43.47:310][211]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Level_5_Primase_adding_primer/thing_envi/aiStandardSurface1.aiStandardSurface1
+[2025.03.25-14.43.47:315][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-14.43.47:315][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-14.43.47:585][211]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.25-14.43.47:585][211]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.25-14.43.47:585][211]MaterialEditorStats: Shader Count: 0
+[2025.03.25-14.43.47:596][211]LogViewport: Scene viewport resized to 280x358, mode Windowed.
+[2025.03.25-14.43.47:692][213]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.03.25-14.43.47:692][213]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.25-14.43.47:692][213]MaterialEditorStats: Texture samplers: 2/16
+[2025.03.25-14.43.47:692][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.25-14.43.47:692][213]MaterialEditorStats: Shader Count: 4
+[2025.03.25-14.43.53:772][331]LogInterchangeEngine: [Pending] Importing
+[2025.03.25-14.43.53:772][331]LogInterchangeEngine: Display: Interchange start importing source [D:/GCU year 4/Medica... project/thing_txtrs/thing_aiStandardSurface1_BaseColor.png]
+[2025.03.25-14.43.53:773][331]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.03.25-14.43.53:773][331]LogInterchangeEngine: Display: Interchange start importing source [D:/GCU year 4/Medica... project/thing_txtrs/thing_aiStandardSurface1_Normal.png]
+[2025.03.25-14.43.53:774][331]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.03.25-14.43.53:774][331]LogInterchangeEngine: Display: Interchange start importing source [D:/GCU year 4/Medica... project/thing_txtrs/thing_aiStandardSurface1_OcclusionRoughnessMetallic.png]
+[2025.03.25-14.43.53:808][332]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.03.25-14.43.53:904][332]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.03.25-14.43.54:147][332]LogTexture: Display: Building textures: /Game/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_OcclusionRoughnessMetallic.thing_aiStandardSurface1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.25-14.43.54:234][332]LogTexture: Display: Building textures: /Game/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_BaseColor.thing_aiStandardSurface1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.25-14.43.54:376][332]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.03.25-14.43.54:380][332]LogTexture: Display: Building textures: /Game/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_Normal.thing_aiStandardSurface1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2025.03.25-14.43.54:465][332]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.03.25-14.43.54:465][332]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.03.25-14.43.54:502][332]LogInterchangeEngine: [Success] Import Done
+[2025.03.25-14.43.54:525][333]LogInterchangeEngine: [Success] Import Done
+[2025.03.25-14.43.58:804][430]LogViewport: Scene viewport resized to 137x255, mode Windowed.
+[2025.03.25-14.44.02:199][611]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.25-14.44.02:199][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.25-14.44.02:199][611]MaterialEditorStats: Shader Count: 0
+[2025.03.25-14.44.02:305][613]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.03.25-14.44.02:305][613]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.25-14.44.02:305][613]MaterialEditorStats: Texture samplers: 2/16
+[2025.03.25-14.44.02:305][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.25-14.44.02:305][613]MaterialEditorStats: Shader Count: 4
+[2025.03.25-14.44.08:458][ 36]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.25-14.44.08:458][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.25-14.44.08:458][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.08:458][ 36]MaterialEditorStats: Shader Count: 0
+[2025.03.25-14.44.08:580][ 38]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.03.25-14.44.08:580][ 38]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.25-14.44.08:580][ 38]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.25-14.44.08:580][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.25-14.44.08:580][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.08:580][ 38]MaterialEditorStats: Shader Count: 4
+[2025.03.25-14.44.10:177][139]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.25-14.44.10:177][139]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.25-14.44.10:177][139]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.10:177][139]MaterialEditorStats: Shader Count: 0
+[2025.03.25-14.44.10:282][141]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.03.25-14.44.10:282][141]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.25-14.44.10:282][141]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.25-14.44.10:282][141]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.25-14.44.10:282][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.10:282][141]MaterialEditorStats: Shader Count: 4
+[2025.03.25-14.44.13:070][312]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.25-14.44.13:070][312]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.03.25-14.44.13:070][312]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.13:070][312]MaterialEditorStats: Shader Count: 0
+[2025.03.25-14.44.13:198][315]MaterialEditorStats: Base pass shader: 202 instructions
+[2025.03.25-14.44.13:198][315]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.25-14.44.13:198][315]MaterialEditorStats: Texture samplers: 4/16
+[2025.03.25-14.44.13:198][315]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.03.25-14.44.13:198][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.13:198][315]MaterialEditorStats: Shader Count: 4
+[2025.03.25-14.44.16:884][546]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.25-14.44.16:884][546]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.03.25-14.44.16:884][546]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.16:884][546]MaterialEditorStats: Shader Count: 0
+[2025.03.25-14.44.16:991][548]MaterialEditorStats: Base pass shader: 202 instructions
+[2025.03.25-14.44.16:991][548]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.25-14.44.16:991][548]MaterialEditorStats: Texture samplers: 4/16
+[2025.03.25-14.44.16:991][548]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.03.25-14.44.16:991][548]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.16:991][548]MaterialEditorStats: Shader Count: 4
+[2025.03.25-14.44.30:036][452]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.25-14.44.30:036][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.25-14.44.30:036][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.30:036][452]MaterialEditorStats: Shader Count: 0
+[2025.03.25-14.44.30:156][455]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.03.25-14.44.30:156][455]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.25-14.44.30:156][455]MaterialEditorStats: Texture samplers: 5/16
+[2025.03.25-14.44.30:156][455]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.25-14.44.30:156][455]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.30:156][455]MaterialEditorStats: Shader Count: 4
+[2025.03.25-14.44.32:997][663]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.25-14.44.32:997][663]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.25-14.44.32:997][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.32:997][663]MaterialEditorStats: Shader Count: 0
+[2025.03.25-14.44.33:121][665]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.03.25-14.44.33:121][665]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.25-14.44.33:121][665]MaterialEditorStats: Texture samplers: 5/16
+[2025.03.25-14.44.33:121][665]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.25-14.44.33:121][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.33:121][665]MaterialEditorStats: Shader Count: 4
+[2025.03.25-14.44.36:330][885]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.25-14.44.36:330][885]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.25-14.44.36:330][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.36:330][885]MaterialEditorStats: Shader Count: 0
+[2025.03.25-14.44.36:459][887]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.03.25-14.44.36:459][887]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.25-14.44.36:459][887]MaterialEditorStats: Texture samplers: 5/16
+[2025.03.25-14.44.36:459][887]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.25-14.44.36:459][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.36:459][887]MaterialEditorStats: Shader Count: 4
+[2025.03.25-14.44.37:642][956]LogMaterialEditor: Applying material aiStandardSurface1
+[2025.03.25-14.44.37:748][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.25-14.44.37:934][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.25-14.44.38:601][990]LogMaterialEditor: Saving and Compiling material aiStandardSurface1
+[2025.03.25-14.44.38:605][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-14.44.38:741][990]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/thing_envi/aiStandardSurface1
+[2025.03.25-14.44.38:741][990]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/aiStandardSurface1C781EE9F49F2CBB8B8742C88F769FC5B.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/thing_envi/aiStandardSurface1.uasset'
+[2025.03.25-14.44.38:750][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 22.7 sec)
+[2025.03.25-14.44.38:751][990]AssetCheck: New page: Asset Save: aiStandardSurface1
+[2025.03.25-14.44.38:752][990]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level_5_Primase_adding_primer/thing_envi/aiStandardSurface1.aiStandardSurface1
+[2025.03.25-14.44.38:754][990]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.03.25-14.44.38:754][990]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.25-14.44.38:754][990]MaterialEditorStats: MaxSampler: 270 instructions
+[2025.03.25-14.44.38:754][990]MaterialEditorStats: Texture samplers: 6/16
+[2025.03.25-14.44.38:754][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.25-14.44.38:754][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.25-14.44.38:754][990]MaterialEditorStats: Shader Count: 16
+[2025.03.25-14.44.41:557][149]LogSlate: Window 'aiStandardSurface1' being destroyed
+[2025.03.25-14.44.41:565][149]LogSlate: Window 'aiStandardSurface1' being destroyed
+[2025.03.25-14.44.41:590][149]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-14.44.41:590][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-14.45.29:915][426]LogViewport: Scene viewport resized to 253x142, mode Windowed.
+[2025.03.25-14.46.21:338][283]Cmd: DELETE
+[2025.03.25-14.46.21:338][283]Cmd: ACTOR DELETE
+[2025.03.25-14.46.21:346][283]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.25-14.46.21:357][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.25-14.46.21:367][283]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.03.25-14.46.53:412][246]LogEditorViewport: Clicking Background
+[2025.03.25-14.47.25:139][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8850.159180
+[2025.03.25-14.47.25:293][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-14.47.25:293][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8850.294922, Update Interval: 342.919403
+[2025.03.25-14.47.28:517][268]Cmd: TRANSACTION UNDO
+[2025.03.25-14.47.28:517][268]LogEditorTransaction: Undo Add Keys at Current Time
+[2025.03.25-14.48.42:323][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.25-14.48.42:340][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-14.48.42:446][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.25-14.48.42:459][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Level_5_primase
+[2025.03.25-14.48.42:460][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Level_5_primase39AB3D10497C1B5B92C7378AA51B3BC1.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Level_5_primase.umap'
+[2025.03.25-14.48.42:468][545]LogFileHelpers: Saving map 'Level_5_primase' took 0.068
+[2025.03.25-14.48.42:573][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Normal
+[2025.03.25-14.48.42:573][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Pimase_low_standardSurface1_NormAD2492B2478B5A2FD17DFB8785831945.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Normal.uasset'
+[2025.03.25-14.48.42:589][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim
+[2025.03.25-14.48.42:589][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/primer_animPrimer_anim3BB2B4C6437FE7B158B632B486BF2508.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim.uasset'
+[2025.03.25-14.48.42:593][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Animation/Purple_mat
+[2025.03.25-14.48.42:594][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Purple_mat36E134EB468627DB96A18D942E90B808.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Animation/Purple_mat.uasset'
+[2025.03.25-14.48.42:596][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Skeleton
+[2025.03.25-14.48.42:596][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/primer_animPrimer_anim_SkeletonA879670B46FE47517D6948A8BF3AC578.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Skeleton.uasset'
+[2025.03.25-14.48.42:604][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_PhysicsAsset
+[2025.03.25-14.48.42:604][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/primer_animPrimer_anim_PhysicsAs658083EC43E1CB3637D36FB357008A6C.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_PhysicsAsset.uasset'
+[2025.03.25-14.48.42:609][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Anim
+[2025.03.25-14.48.42:609][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/primer_animPrimer_anim_AnimDDB188D54F825D3A3670FF91A99D139F.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Anim.uasset'
+[2025.03.25-14.48.42:633][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/Leading_strand
+[2025.03.25-14.48.42:633][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Leading_strand8348E0E241A8B2FD040A979FD540D22E.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/Leading_strand.uasset'
+[2025.03.25-14.48.42:643][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Level_5_sequence
+[2025.03.25-14.48.42:643][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Level_5_sequence56DD29334BB0035591FC6F87C24F7182.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Level_5_sequence.uasset'
+[2025.03.25-14.48.42:719][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Particles
+[2025.03.25-14.48.42:719][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Particles2CAE515849F316DA70BC259578E485E4.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Particles.uasset'
+[2025.03.25-14.48.42:809][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.42:809][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Pimase_low_standardSurface1_OcclFD7F99AD46311C867F6F4EA2C07F35B0.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2025.03.25-14.48.42:892][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_BaseColor
+[2025.03.25-14.48.42:892][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Pimase_low_standardSurface1_BaseF25BFE694CAED05B677FD9BAD93D867F.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_BaseColor.uasset'
+[2025.03.25-14.48.42:909][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Emissive
+[2025.03.25-14.48.42:909][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/Pimase_low_standardSurface1_Emis3951D6334571415B01C44E8942C36D7F.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Emissive.uasset'
+[2025.03.25-14.48.43:167][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor
+[2025.03.25-14.48.43:167][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseColA5F60FFC4F850A1EA97E76834FCF5504.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor.uasset'
+[2025.03.25-14.48.43:264][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Emissive
+[2025.03.25-14.48.43:264][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_EmissivC33927884DD406E89DC33BAEB1D76973.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Emissive.uasset'
+[2025.03.25-14.48.43:370][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Normal
+[2025.03.25-14.48.43:370][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Normal3F4456084CC0393643DCB49259F95E75.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Normal.uasset'
+[2025.03.25-14.48.43:447][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.43:447][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Occlusi731354704C4DBB7182C5B09F7C5DFA09.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2025.03.25-14.48.43:550][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_BaseColor
+[2025.03.25-14.48.43:551][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseCol5549C8D8436485AA05EE03B00D9744B1.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_BaseColor.uasset'
+[2025.03.25-14.48.43:644][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Emissive
+[2025.03.25-14.48.43:644][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_EmissivE4667C2D42803D86A6D2D393A2718FE1.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Emissive.uasset'
+[2025.03.25-14.48.43:739][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Normal
+[2025.03.25-14.48.43:739][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Normal909F2D1F4C74BB12595654823FBC64EE.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Normal.uasset'
+[2025.03.25-14.48.43:819][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.43:819][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_OcclusiFB04784041DCA537FBA91394883ADCED.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2025.03.25-14.48.43:928][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_BaseColor
+[2025.03.25-14.48.43:928][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseColD98F562C46FE8BF9105735A38B922B85.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_BaseColor.uasset'
+[2025.03.25-14.48.44:029][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Emissive
+[2025.03.25-14.48.44:029][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Emissiv3FFD1FB54A01A16695213BA9E9F8DF5C.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Emissive.uasset'
+[2025.03.25-14.48.44:124][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Normal
+[2025.03.25-14.48.44:124][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Normal60904E344E93CD9C23C7A89DF8C5AA15.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Normal.uasset'
+[2025.03.25-14.48.44:201][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.44:201][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_OcclusiF314B99D4852C63F5AEEB99DB5B89289.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2025.03.25-14.48.44:323][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_BaseColor
+[2025.03.25-14.48.44:323][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseCol2A53430740EABC997BE7C7B4396363F5.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_BaseColor.uasset'
+[2025.03.25-14.48.44:415][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Emissive
+[2025.03.25-14.48.44:415][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_EmissivAF7038A444E10A444A3F6F9A1B1FDC46.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Emissive.uasset'
+[2025.03.25-14.48.44:511][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Normal
+[2025.03.25-14.48.44:511][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_Normal610D687D425C727CEC17DCAF24B04A8F.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Normal.uasset'
+[2025.03.25-14.48.44:584][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.44:584][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_OcclusiC6B5575240E08CC7D5E2EE8728E215D1.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2025.03.25-14.48.44:587][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor_Mat
+[2025.03.25-14.48.44:587][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/low_dna_standardSurface1_BaseCol9875FAC54458F28B83FE579DD617E6D4.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor_Mat.uasset'
+[2025.03.25-14.48.44:590][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/Leading_strand/BLue_instance
+[2025.03.25-14.48.44:590][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/BLue_instance7618867B41879F9DE5A61CA9F72EBDB5.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/Leading_strand/BLue_instance.uasset'
+[2025.03.25-14.48.44:674][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/thing_envi/thing
+[2025.03.25-14.48.44:674][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/thing959F4E394E81604AA6A4A294AE487698.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/thing_envi/thing.uasset'
+[2025.03.25-14.48.44:760][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.44:760][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/thing_aiStandardSurface1_Occlusi75B1414443682A6E09658185776FB172.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_OcclusionRoughnessMetallic.uasset'
+[2025.03.25-14.48.44:847][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_BaseColor
+[2025.03.25-14.48.44:847][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/thing_aiStandardSurface1_BaseColE7299A46419E154E567764840603564A.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_BaseColor.uasset'
+[2025.03.25-14.48.44:936][545]LogSavePackage: Moving output files for package: /Game/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_Normal
+[2025.03.25-14.48.44:936][545]LogSavePackage: Moving '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Saved/thing_aiStandardSurface1_NormalD3CC0DB04BD3EF6B12CBCEAE2BB97F4C.tmp' to '../../../../../GCU year 4/Medical modeling group project/DNA_Replication/DnA_Replication/Content/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_Normal.uasset'
+[2025.03.25-14.48.44:946][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.60 sec (total: 25.3 sec)
+[2025.03.25-14.48.44:959][545]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level_5_Primase_adding_primer/Level_5_primase.Level_5_primase
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Normal.Pimase_low_standardSurface1_Normal
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim.primer_animPrimer_anim
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level_5_Primase_adding_primer/Animation/Purple_mat.Purple_mat
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Skeleton.primer_animPrimer_anim_Skeleton
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_PhysicsAsset.primer_animPrimer_anim_PhysicsAsset
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Level_5_Primase_adding_primer/Animation/primer_animPrimer_anim_Anim.primer_animPrimer_anim_Anim
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level_5_Primase_adding_primer/Leading_strand/Leading_strand.Leading_strand
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Level_5_Primase_adding_primer/Level_5_sequence.Level_5_sequence
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Level_5_Primase_adding_primer/Particles.Particles
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_OcclusionRoughnessMetallic.Pimase_low_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_BaseColor.Pimase_low_standardSurface1_BaseColor
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Primase/UNREAL_PRIMASE_TXTRS/Pimase_low_standardSurface1_Emissive.Pimase_low_standardSurface1_Emissive
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor.low_dna_standardSurface1_BaseColor
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Emissive.low_dna_standardSurface1_Emissive
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_Normal.low_dna_standardSurface1_Normal
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic.low_dna_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_BaseColor.low_dna_standardSurface1_BaseColor
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Emissive.low_dna_standardSurface1_Emissive
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_Normal.low_dna_standardSurface1_Normal
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/Orange_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic.low_dna_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_BaseColor.low_dna_standardSurface1_BaseColor
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Emissive.low_dna_standardSurface1_Emissive
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_Normal.low_dna_standardSurface1_Normal
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/purple_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic.low_dna_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_BaseColor.low_dna_standardSurface1_BaseColor
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Emissive.low_dna_standardSurface1_Emissive
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_Normal.low_dna_standardSurface1_Normal
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/Leading_strand/Yellow_unreal/low_dna_standardSurface1_OcclusionRoughnessMetallic.low_dna_standardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level_5_Primase_adding_primer/Leading_strand/blue_unreal/low_dna_standardSurface1_BaseColor_Mat.low_dna_standardSurface1_BaseColor_Mat
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Level_5_Primase_adding_primer/Leading_strand/BLue_instance.BLue_instance
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level_5_Primase_adding_primer/thing_envi/thing.thing
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_OcclusionRoughnessMetallic.thing_aiStandardSurface1_OcclusionRoughnessMetallic
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_BaseColor.thing_aiStandardSurface1_BaseColor
+[2025.03.25-14.48.44:960][545]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Level_5_Primase_adding_primer/thing_envi/thing_txtrs/thing_aiStandardSurface1_Normal.thing_aiStandardSurface1_Normal
