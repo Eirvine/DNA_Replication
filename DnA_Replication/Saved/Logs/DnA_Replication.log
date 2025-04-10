@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 04/10/25 12:10:51
+=======
+﻿Log file open, 04/10/25 10:02:38
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 04/10/25 10:02:38
 >>>>>>> Stashed changes
@@ -16,7 +20,11 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=33440)
+=======
+LogWindows: Started CrashReportClient (pid=4640)
+>>>>>>> Stashed changes
 =======
 LogWindows: Started CrashReportClient (pid=4640)
 >>>>>>> Stashed changes
@@ -42,6 +50,7 @@ LogCsvProfiler: Display: Metadata set : asan="0"
 LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\idabro300\Documents\GitHub\DNA_Replication\DnA_Replication\DnA_Replication.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="a79231b343f2be1cd512fab148584b57"
 LogCsvProfiler: Display: Metadata set : llm="0"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogStats: Stats thread started at 0.537901
@@ -75,6 +84,14 @@ LogInit: Session CrashGUID >====================================================
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [../../../../../../Users/idabro300/Documents/GitHub/DNA_Replication/DnA_Replication/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 >>>>>>> Stashed changes
+=======
+LogStats: Stats thread started at 0.879643
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6A7606C449B451D4C1752F91AD97447E
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [../../../../../../Users/idabro300/Documents/GitHub/DNA_Replication/DnA_Replication/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+>>>>>>> Stashed changes
 LogAssetRegistry: Display: Asset registry cache read as 25.3 MiB from ../../../../../../Users/idabro300/Documents/GitHub/DNA_Replication/DnA_Replication/Intermediate/CachedAssetRegistry_0.bin
 LogConfig: Display: Loading Android ini files took 0.03 seconds
 LogConfig: Display: Loading IOS ini files took 0.04 seconds
@@ -86,6 +103,9 @@ LogConfig: Display: Loading TVOS ini files took 0.04 seconds
 LogConfig: Display: Loading Unix ini files took 0.04 seconds
 LogConfig: Display: Loading Windows ini files took 0.04 seconds
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -104,6 +124,7 @@ LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin Niagara
@@ -125,12 +146,17 @@ LogPluginManager: Mounting Engine plugin OodleNetwork
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AISupport
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin GLTFExporter
 LogPluginManager: Mounting Engine plugin VariantManager
 LogPluginManager: Mounting Engine plugin VariantManagerContent
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -160,12 +186,15 @@ LogPluginManager: Mounting Engine plugin TextToSpeech
 LogPluginManager: Mounting Engine plugin ToolPresets
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin Takes
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin GLTFExporter
 LogPluginManager: Mounting Engine plugin VariantManager
 LogPluginManager: Mounting Engine plugin VariantManagerContent
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ACLPlugin
@@ -187,6 +216,9 @@ LogPluginManager: Mounting Engine plugin AlembicImporter
 LogPluginManager: Mounting Engine plugin TcpMessaging
 LogPluginManager: Mounting Engine plugin UdpMessaging
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -200,6 +232,7 @@ LogPluginManager: Mounting Engine plugin MediaCompositing
 LogPluginManager: Mounting Engine plugin MediaPlayerEditor
 LogPluginManager: Mounting Engine plugin WebMMedia
 LogPluginManager: Mounting Engine plugin WmfMedia
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin OnlineBase
 LogPluginManager: Mounting Engine plugin OnlineServices
@@ -317,6 +350,43 @@ LogPluginManager: Mounting Engine plugin AlembicImporter
 LogPluginManager: Mounting Engine plugin PerforceSourceControl
 =======
 =======
+=======
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DumpGPUServices
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin N10XSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RenderDocPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MovieRenderPipeline
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
 LogPluginManager: Mounting Engine plugin AndroidPermission
 LogPluginManager: Mounting Engine plugin AppleImageUtils
@@ -383,6 +453,7 @@ LogPluginManager: Mounting Engine plugin SpeedTreeImporter
 LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin ActorSequence
 LogPluginManager: Mounting Engine plugin UVEditor
 LogPluginManager: Mounting Engine plugin LevelSequenceEditor
@@ -445,6 +516,25 @@ LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
 LogPluginManager: Mounting Engine plugin XInputDevice
 LogPluginManager: Mounting Engine plugin ConcertSyncCore
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin NiagaraSimCaching
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin BaseCharacterFXEditor
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin MetaHumanProjectUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
+LogPluginManager: Mounting Engine plugin XInputDevice
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ConcertSyncClient
 LogPluginManager: Mounting Engine plugin ConcertSharedSlate
 >>>>>>> Stashed changes
@@ -477,8 +567,11 @@ LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -553,6 +646,7 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy variable created
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2025.04.10-11.10.51:706][  0]LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
@@ -1735,6 +1829,8 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.04.10-11.25.31:678][517]LogExit: Exiting.
 [2025.04.10-11.25.31:688][517]Log file closed, 04/10/25 12:25:31
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
@@ -4428,6 +4524,9 @@ Purging the undo buffer...
 [2025.04.10-11.10.34:082][549]LogExit: Exiting.
 [2025.04.10-11.10.34:098][549]Log file closed, 04/10/25 12:10:34
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
